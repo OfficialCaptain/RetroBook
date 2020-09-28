@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=retrobook
+POSTGRES_USER=sEDmbdFulvoKMrJEySBZiSoGDoqFuisJ
+POSTGRES_PASSWORD=9dwIGJ4SLaEoUoq08xwdTLVKE3eK1SXXzUSlrHEDyXbNaTDF2D2KSPrAfl0yQVzp
